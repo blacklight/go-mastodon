@@ -1,4 +1,4 @@
-module github.com/RasmusLindroth/go-mastodon
+module github.com/blacklight/go-mastodon
 
 go 1.16
 
